@@ -1,1 +1,1 @@
-Welcome to git Training!!
+Welcome to Git Training!!
